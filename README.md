@@ -19,3 +19,8 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
+to view the live version of this repository [click here](https://liamz34.github.io/password-generator/)
+
+this is a preview of the webpage
+![Screen Shot 2022-07-12 at 9 54 55 PM](https://user-images.githubusercontent.com/103050228/178634583-dd9f1882-bc3e-468c-8d2e-5a11bc0fd6c7.png)
+
